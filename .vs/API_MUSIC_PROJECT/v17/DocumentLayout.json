@@ -1,0 +1,576 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|d:\\source_code\\sc_prn231\\lab\\api_music_project\\api_music\\services\\artistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|solutionrelative:api_music\\services\\artistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|d:\\source_code\\sc_prn231\\lab\\api_music_project\\api_music\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|solutionrelative:api_music\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\controllers\\api_artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|solutionrelative:api_music\\controllers\\api_artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|solutionrelative:api_music\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\data\\apimusicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|solutionrelative:api_music\\data\\apimusicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEF357D-BE3A-4C4C-BE4C-C4F1BB6AB1C9}|MusicClient\\MusicClient.csproj|D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\musicclient\\controller\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEF357D-BE3A-4C4C-BE4C-C4F1BB6AB1C9}|MusicClient\\MusicClient.csproj|solutionrelative:musicclient\\controller\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEF357D-BE3A-4C4C-BE4C-C4F1BB6AB1C9}|MusicClient\\MusicClient.csproj|D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\musicclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEF357D-BE3A-4C4C-BE4C-C4F1BB6AB1C9}|MusicClient\\MusicClient.csproj|solutionrelative:musicclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEF357D-BE3A-4C4C-BE4C-C4F1BB6AB1C9}|MusicClient\\MusicClient.csproj|D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\musicclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CBEF357D-BE3A-4C4C-BE4C-C4F1BB6AB1C9}|MusicClient\\MusicClient.csproj|solutionrelative:musicclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|solutionrelative:api_music\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\models\\artist_song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|solutionrelative:api_music\\models\\artist_song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\services\\spotifyauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|solutionrelative:api_music\\services\\spotifyauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|solutionrelative:api_music\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\models\\favorite_playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|solutionrelative:api_music\\models\\favorite_playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|solutionrelative:api_music\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\models\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|solutionrelative:api_music\\models\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\models\\playlist_song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|solutionrelative:api_music\\models\\playlist_song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\models\\streaming_history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|solutionrelative:api_music\\models\\streaming_history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|solutionrelative:api_music\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\models\\user_likes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|solutionrelative:api_music\\models\\user_likes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\models\\user_recentlyplayed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|solutionrelative:api_music\\models\\user_recentlyplayed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|solutionrelative:api_music\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\api_music.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9837481C-DC7D-49AC-B756-C1731F5B96FF}|api_music\\api_music.csproj|solutionrelative:api_music\\api_music.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 185,
+          "SelectedChildIndex": 51,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:55:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:51:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:53:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:79:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:72:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:91:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:93:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:94:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:89:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:110:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:114:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:115:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:113:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:112:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:111:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiMusicDbContext.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Data\\ApiMusicDbContext.cs",
+              "RelativeDocumentMoniker": "api_music\\Data\\ApiMusicDbContext.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Data\\ApiMusicDbContext.cs",
+              "RelativeToolTip": "api_music\\Data\\ApiMusicDbContext.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAkwH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:38:57.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Song.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Models\\Song.cs",
+              "RelativeDocumentMoniker": "api_music\\Models\\Song.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Models\\Song.cs",
+              "RelativeToolTip": "api_music\\Models\\Song.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:36:49.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArtistService.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Services\\ArtistService.cs",
+              "RelativeDocumentMoniker": "api_music\\Services\\ArtistService.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Services\\ArtistService.cs",
+              "RelativeToolTip": "api_music\\Services\\ArtistService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T07:12:58.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArtistController.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\MusicClient\\Controller\\ArtistController.cs",
+              "RelativeDocumentMoniker": "MusicClient\\Controller\\ArtistController.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\MusicClient\\Controller\\ArtistController.cs",
+              "RelativeToolTip": "MusicClient\\Controller\\ArtistController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:31:04.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\MusicClient\\Program.cs",
+              "RelativeDocumentMoniker": "MusicClient\\Program.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\MusicClient\\Program.cs",
+              "RelativeToolTip": "MusicClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:30:13.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\MusicClient\\appsettings.json",
+              "RelativeDocumentMoniker": "MusicClient\\appsettings.json",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\MusicClient\\appsettings.json",
+              "RelativeToolTip": "MusicClient\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T08:30:22.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SpotifyAuthService.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Services\\SpotifyAuthService.cs",
+              "RelativeDocumentMoniker": "api_music\\Services\\SpotifyAuthService.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Services\\SpotifyAuthService.cs",
+              "RelativeToolTip": "api_music\\Services\\SpotifyAuthService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBYAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T06:56:47.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Album.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "api_music\\Models\\Album.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Models\\Album.cs",
+              "RelativeToolTip": "api_music\\Models\\Album.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:40:24.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Artist_Song.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Models\\Artist_Song.cs",
+              "RelativeDocumentMoniker": "api_music\\Models\\Artist_Song.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Models\\Artist_Song.cs",
+              "RelativeToolTip": "api_music\\Models\\Artist_Song.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:46:38.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "api_music\\Models\\Artist.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Models\\Artist.cs",
+              "RelativeToolTip": "api_music\\Models\\Artist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:38:29.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Favorite_Playlist.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Models\\Favorite_Playlist.cs",
+              "RelativeDocumentMoniker": "api_music\\Models\\Favorite_Playlist.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Models\\Favorite_Playlist.cs",
+              "RelativeToolTip": "api_music\\Models\\Favorite_Playlist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:55:46.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "api_music\\Models\\Genre.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Models\\Genre.cs",
+              "RelativeToolTip": "api_music\\Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:44:24.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Playlist.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Models\\Playlist.cs",
+              "RelativeDocumentMoniker": "api_music\\Models\\Playlist.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Models\\Playlist.cs",
+              "RelativeToolTip": "api_music\\Models\\Playlist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:49:15.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Playlist_Song.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Models\\Playlist_Song.cs",
+              "RelativeDocumentMoniker": "api_music\\Models\\Playlist_Song.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Models\\Playlist_Song.cs",
+              "RelativeToolTip": "api_music\\Models\\Playlist_Song.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:52:37.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Streaming_History.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Models\\Streaming_History.cs",
+              "RelativeDocumentMoniker": "api_music\\Models\\Streaming_History.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Models\\Streaming_History.cs",
+              "RelativeToolTip": "api_music\\Models\\Streaming_History.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:54:17.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Models\\User.cs",
+              "RelativeDocumentMoniker": "api_music\\Models\\User.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Models\\User.cs",
+              "RelativeToolTip": "api_music\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:47:26.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User_Likes.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Models\\User_Likes.cs",
+              "RelativeDocumentMoniker": "api_music\\Models\\User_Likes.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Models\\User_Likes.cs",
+              "RelativeToolTip": "api_music\\Models\\User_Likes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:53:40.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User_RecentlyPlayed.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Models\\User_RecentlyPlayed.cs",
+              "RelativeDocumentMoniker": "api_music\\Models\\User_RecentlyPlayed.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Models\\User_RecentlyPlayed.cs",
+              "RelativeToolTip": "api_music\\Models\\User_RecentlyPlayed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:57:19.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\appsettings.json",
+              "RelativeDocumentMoniker": "api_music\\appsettings.json",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\appsettings.json",
+              "RelativeToolTip": "api_music\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T15:17:46.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "api_music.csproj",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\api_music.csproj",
+              "RelativeDocumentMoniker": "api_music\\api_music.csproj",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\api_music.csproj",
+              "RelativeToolTip": "api_music\\api_music.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-25T13:26:48.46Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 185,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "api_music\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "api_music\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:44:29.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Api_ArtistController.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Controllers\\Api_ArtistController.cs",
+              "RelativeDocumentMoniker": "api_music\\Controllers\\Api_ArtistController.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\API_MUSIC_PROJECT\\api_music\\Controllers\\Api_ArtistController.cs",
+              "RelativeToolTip": "api_music\\Controllers\\Api_ArtistController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T07:18:59.889Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
